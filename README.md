@@ -1,15 +1,15 @@
 ## Hi there, I'm Aayush 'AyuzZ' Katwal 👋
 
-## Backend Enthusiast
+# Backend Enthusiast
 
-## Languages
+# Languages
 ☕ Java
 🐍 Python
 📄 JavaScript
 📄 HTML, CSS, React.js
 
-## Frameworks
+# Frameworks
 ☕ Spring Boot
 
-## Databases
+# Databases
 🛢MySql, Oracle SQL Plus
